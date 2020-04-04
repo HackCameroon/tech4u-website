@@ -2014,18 +2014,18 @@ textarea.form-control {
       width: 100%;
       padding: 12px;
       border: 0;
-      background: #c3b6e2;
+      background: gold;
       font-size: 1.1em;
       color: #fff;
       text-shadow: 1px 1px 0px rgba(0, 0, 0, .4);
-      box-shadow: 0px 3px 0px #ac9ad7;
+      box-shadow: 0px 3px 0px goldenrod;
       margin-top: 1.2rem;
       border-radius: .25rem;
   }
   .btn2:hover {
       color: #fff;
-      background: #8a70c6;
-      border-color: #a18cd1;
+      background: #c6c470;
+      border-color: #c7d63b;
   }
   .form-control {
       display: block;
@@ -2045,7 +2045,7 @@ textarea.form-control {
       margin-bottom: 1.2rem;
   }
   .form-control:focus {
-      border-color: #7743ff;
+      border-color: goldenrod;
       box-shadow: inset 0 1px 1px rgba(45, 45, 45, 0.07), 0 0 8px rgba(129, 129, 129, 0.6);
   }
   
